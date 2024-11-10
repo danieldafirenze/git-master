@@ -2,3 +2,4 @@ if __name__ == __main__:
     print("Bem-vindo ao Git Master")
     print("Welcome to Git Master!")
     print("Bienvenue sur Git Master!")
+    print("Benvenuti a Git Master!")
